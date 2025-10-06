@@ -15,4 +15,4 @@ else{
     tax=(500000-250000) * 0.05 + (1000000-500000) * 0.20 + (income-1000000) * 0.30;
 }
 
-console.log("income tax payed is :-" + tax);
+console.log("income tax payed is :" + tax);

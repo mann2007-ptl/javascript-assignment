@@ -12,4 +12,4 @@ else{
     bill=(100 * 5) + (200 * 7) + ((units - 300) * 10);
 }
 
-console.log("the bill payed is:-" + bill);
+console.log("the bill payed is:" + bill);
